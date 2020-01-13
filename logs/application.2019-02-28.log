@@ -1,0 +1,4 @@
+[2019-02-28T01:56:10.591] [INFO] logInfo - ::ffff:127.0.0.1 - - "GET / HTTP/1.0" 200 - "" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+[2019-02-28T01:56:10.619] [INFO] logInfo - ::ffff:127.0.0.1 - - "GET /assets/app/css/style.css HTTP/1.0" 304 - "http://blog.jesse.com/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+[2019-02-28T01:56:34.403] [INFO] logInfo - ::ffff:127.0.0.1 - - "GET / HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+[2019-02-28T01:56:34.424] [INFO] logInfo - ::ffff:127.0.0.1 - - "GET /assets/app/css/style.css HTTP/1.0" 304 - "http://blog.jesse.com/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"

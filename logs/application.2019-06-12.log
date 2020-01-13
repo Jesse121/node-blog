@@ -1,0 +1,2 @@
+[2019-06-12T01:46:53.354] [INFO] logInfo - ::ffff:127.0.0.1 - - "GET / HTTP/1.0" 200 - "" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-06-12T01:46:53.411] [INFO] logInfo - ::ffff:127.0.0.1 - - "GET /assets/app/css/style.css HTTP/1.0" 200 - "http://blog.jesse.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"

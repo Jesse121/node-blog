@@ -1,0 +1,2 @@
+[2019-06-17T01:41:45.795] [INFO] logInfo - ::ffff:127.0.0.1 - - "GET / HTTP/1.0" 200 - "" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36"
+[2019-06-17T01:41:45.820] [INFO] logInfo - ::ffff:127.0.0.1 - - "GET /assets/app/css/style.css HTTP/1.0" 200 - "http://blog.jesse.com/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36"
